@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Aanu Olu Wapo
-- Automation Specialist and Multi-Language Developer
-- 
-Here’s a polished About Me section tailored to your expertise:
+ 👋 Hi, I’m Aanu Olu Wapo
+ Automation Specialist and Multi-Language Developer
 
 About Me
  I'm Aanu Olu Wapo, an Automation Specialist and Multi-Language Developer with a passion for creating innovative solutions. I specialize in building seamless automation workflows using Make.com and Zapier, transforming complex processes into effortless operations.
@@ -33,22 +31,22 @@ Specializations: Workflow automation, USSD automation, Windows Forms application
 
 ## Contact
 - **Email**: oladapoaanu2507@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/aanuoluwapo-daniel-349445299)
-- **GitHub**: [Your GitHub Profile](https://github.com/Aanuwapo)
+- **LinkedIn**:(https://linkedin.com/in/aanuoluwapo-daniel-349445299)
+- **GitHub**: (https://github.com/Aanuwapo)
 
 ## Testimonials
 
 > "Aanu Olu Wapo delivered exactly what we needed, on time, and exceeded our expectations!"  
-> — *Olivia Reed, Tourist Accommodation Manager Project*
+>  *Olivia Reed, Tourist Accommodation Manager Project*
 
 > "Working with Aanu Olu Wapo was seamless! The automation workflows they created with Make.com transformed our manual processes into efficient, error-free systems. Highly recommend their expertise!"  
-> — *Daniel Morgan, Workflow Automation Project*
+>  *Daniel Morgan, Workflow Automation Project*
 
 > "The trading bot Aanu Olu Wapo developed has been a game-changer for my trading strategy. It’s incredibly accurate, dynamic, and has saved me countless hours. Their attention to detail and professionalism stood out."  
-> — *Daniel Morgan, MetaTrader Trading Bot Project*
+>  *Daniel Morgan, MetaTrader Trading Bot Project*
 
 > "Aanuwapo’s Android app for automating USSD requests has streamlined our operations significantly. Their understanding of the technical requirements and commitment to delivering on time was remarkable."  
-> — *Liam Carter, USSD Request Automation Project*
+>  *Liam Carter, USSD Request Automation Project*
 
 
 - 😄 Pronouns: He/Him...
