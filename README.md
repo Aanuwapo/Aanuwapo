@@ -1,8 +1,8 @@
- 👋 Hi, I’m Aanu Olu Wapo
+ Hi, I’m Aanu Olu Wapo
 ## Automation Specialist and Multi-Language Developer
 
 ## About Me
-> I'm Aanu Olu Wapo, an Automation Specialist and Multi-Language Developer with a passion for creating innovative solutions. I specialize in building seamless automation workflows using Make.com and Zapier, transforming complex processes into effortless operations.
+ I'm Aanu Olu Wapo, an Automation Specialist and Multi-Language Developer with a passion for creating innovative solutions. I specialize in building seamless automation workflows using Make.com and Zapier, transforming complex processes into effortless operations.
 
 As a developer, I excel in Python, Java, HTML, C#, and MQL5, with a strong focus on crafting trading bots, robust applications, and efficient systems. My approach combines technical precision with creativity, ensuring each project not only meets but exceeds expectations.
 
@@ -48,8 +48,7 @@ Specializations: Workflow automation, USSD automation, Windows Forms application
 > "Aanuwapo’s Android app for automating USSD requests has streamlined our operations significantly. Their understanding of the technical requirements and commitment to delivering on time was remarkable."  
 >  *Liam Carter, USSD Request Automation Project*
 
-
-- 😄 Pronouns: He/Him...
+😄 Pronouns: He/Him...
 
 
 
