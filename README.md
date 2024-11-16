@@ -1,8 +1,8 @@
  👋 Hi, I’m Aanu Olu Wapo
- Automation Specialist and Multi-Language Developer
+## Automation Specialist and Multi-Language Developer
 
-About Me
- I'm Aanu Olu Wapo, an Automation Specialist and Multi-Language Developer with a passion for creating innovative solutions. I specialize in building seamless automation workflows using Make.com and Zapier, transforming complex processes into effortless operations.
+## About Me
+> I'm Aanu Olu Wapo, an Automation Specialist and Multi-Language Developer with a passion for creating innovative solutions. I specialize in building seamless automation workflows using Make.com and Zapier, transforming complex processes into effortless operations.
 
 As a developer, I excel in Python, Java, HTML, C#, and MQL5, with a strong focus on crafting trading bots, robust applications, and efficient systems. My approach combines technical precision with creativity, ensuring each project not only meets but exceeds expectations.
 
